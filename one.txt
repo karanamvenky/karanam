@@ -1,4 +1,8 @@
 aaaa
+<<<<<<< HEAD
 gggg
+=======
+zzzz
+>>>>>>> Bug1
 cccc
 dddd
